@@ -1,0 +1,11 @@
+C:\Users\zhangcs\Desktop\zcsdotnet\bin\Debug\netcoreapp2.0\zcsdotnet.deps.json
+C:\Users\zhangcs\Desktop\zcsdotnet\bin\Debug\netcoreapp2.0\zcsdotnet.runtimeconfig.json
+C:\Users\zhangcs\Desktop\zcsdotnet\bin\Debug\netcoreapp2.0\zcsdotnet.runtimeconfig.dev.json
+C:\Users\zhangcs\Desktop\zcsdotnet\bin\Debug\netcoreapp2.0\zcsdotnet.dll
+C:\Users\zhangcs\Desktop\zcsdotnet\bin\Debug\netcoreapp2.0\zcsdotnet.pdb
+C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.csproj.CoreCompileInputs.cache
+C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.AssemblyInfoInputs.cache
+C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.AssemblyInfo.cs
+C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.dll
+C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.pdb
+C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.csprojResolveAssemblyReference.cache

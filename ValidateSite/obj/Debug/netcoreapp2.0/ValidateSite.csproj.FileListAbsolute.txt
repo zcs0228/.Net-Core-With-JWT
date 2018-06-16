@@ -1,0 +1,11 @@
+C:\Users\zhangcs\Desktop\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.deps.json
+C:\Users\zhangcs\Desktop\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.runtimeconfig.json
+C:\Users\zhangcs\Desktop\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.runtimeconfig.dev.json
+C:\Users\zhangcs\Desktop\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.dll
+C:\Users\zhangcs\Desktop\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.pdb
+C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.csproj.CoreCompileInputs.cache
+C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.AssemblyInfoInputs.cache
+C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.AssemblyInfo.cs
+C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.dll
+C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.pdb
+C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.csprojResolveAssemblyReference.cache
