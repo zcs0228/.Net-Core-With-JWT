@@ -9,3 +9,14 @@ C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.Assem
 C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.dll
 C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.pdb
 C:\Users\zhangcs\Desktop\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.csprojResolveAssemblyReference.cache
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.deps.json
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.runtimeconfig.json
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.runtimeconfig.dev.json
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.dll
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\bin\Debug\netcoreapp2.0\ValidateSite.pdb
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.csprojResolveAssemblyReference.cache
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.csproj.CoreCompileInputs.cache
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.AssemblyInfoInputs.cache
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.AssemblyInfo.cs
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.dll
+E:\zcsgit\.Net-Core-With-JWT\ValidateSite\obj\Debug\netcoreapp2.0\ValidateSite.pdb

@@ -12812,11 +12812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhangcs\\Desktop\\zcsdotnet\\zcsdotnet.csproj",
+      "projectUniqueName": "E:\\zcsgit\\.Net-Core-With-JWT\\AuthorizationSite\\zcsdotnet.csproj",
       "projectName": "zcsdotnet",
-      "projectPath": "C:\\Users\\zhangcs\\Desktop\\zcsdotnet\\zcsdotnet.csproj",
+      "projectPath": "E:\\zcsgit\\.Net-Core-With-JWT\\AuthorizationSite\\zcsdotnet.csproj",
       "packagesPath": "C:\\Users\\zhangcs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhangcs\\Desktop\\zcsdotnet\\obj\\",
+      "outputPath": "E:\\zcsgit\\.Net-Core-With-JWT\\AuthorizationSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

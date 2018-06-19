@@ -9,3 +9,14 @@ C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.AssemblyInf
 C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.dll
 C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.pdb
 C:\Users\zhangcs\Desktop\zcsdotnet\obj\Debug\netcoreapp2.0\zcsdotnet.csprojResolveAssemblyReference.cache
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\bin\Debug\netcoreapp2.0\zcsdotnet.deps.json
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\bin\Debug\netcoreapp2.0\zcsdotnet.runtimeconfig.json
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\bin\Debug\netcoreapp2.0\zcsdotnet.runtimeconfig.dev.json
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\bin\Debug\netcoreapp2.0\zcsdotnet.dll
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\bin\Debug\netcoreapp2.0\zcsdotnet.pdb
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\obj\Debug\netcoreapp2.0\zcsdotnet.csprojResolveAssemblyReference.cache
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\obj\Debug\netcoreapp2.0\zcsdotnet.csproj.CoreCompileInputs.cache
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\obj\Debug\netcoreapp2.0\zcsdotnet.AssemblyInfoInputs.cache
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\obj\Debug\netcoreapp2.0\zcsdotnet.AssemblyInfo.cs
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\obj\Debug\netcoreapp2.0\zcsdotnet.dll
+E:\zcsgit\.Net-Core-With-JWT\AuthorizationSite\obj\Debug\netcoreapp2.0\zcsdotnet.pdb

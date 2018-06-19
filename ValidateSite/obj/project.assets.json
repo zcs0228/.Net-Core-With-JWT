@@ -12982,11 +12982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhangcs\\Desktop\\ValidateSite\\ValidateSite.csproj",
+      "projectUniqueName": "E:\\zcsgit\\.Net-Core-With-JWT\\ValidateSite\\ValidateSite.csproj",
       "projectName": "ValidateSite",
-      "projectPath": "C:\\Users\\zhangcs\\Desktop\\ValidateSite\\ValidateSite.csproj",
+      "projectPath": "E:\\zcsgit\\.Net-Core-With-JWT\\ValidateSite\\ValidateSite.csproj",
       "packagesPath": "C:\\Users\\zhangcs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhangcs\\Desktop\\ValidateSite\\obj\\",
+      "outputPath": "E:\\zcsgit\\.Net-Core-With-JWT\\ValidateSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
